@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<letras>
+<letras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/danieltascon/Documents/GitHub/XML-Esquemas/ejercicio%201/e_1_2.xsd">
   <letra>m, uve doble</letra>
 </letras>
